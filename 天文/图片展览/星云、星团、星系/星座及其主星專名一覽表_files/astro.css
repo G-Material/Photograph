@@ -1,0 +1,96 @@
+H1 {
+	MARGIN-LEFT: 5px; COLOR: #000000; FONT-FAMILY: "標楷體","Arial"
+}
+H2 {
+	MARGIN-LEFT: 5px; COLOR: #000000; FONT-FAMILY: "標楷體","Arial"
+}
+H3 {
+	MARGIN-LEFT: 5px; COLOR: #000000; FONT-FAMILY: "標楷體","Arial"
+}
+H4 {
+	MARGIN-LEFT: 5px; COLOR: #000000; FONT-FAMILY: "標楷體","Arial"
+}
+H1 {
+	FONT-SIZE: 30px
+}
+H2 {
+	FONT-SIZE: 27px
+}
+H3 {
+	FONT-SIZE: 24px
+}
+H4 {
+	FONT-SIZE: 21px
+}
+TD {
+	FONT-WEIGHT: normal; COLOR: #0a00cc
+}
+P {
+	MARGIN-LEFT: 5px
+}
+DIV {
+	MARGIN-LEFT: 5px
+}
+.TAB {
+	MARGIN-LEFT: 5px
+}
+P {
+	FONT-WEIGHT: normal; FONT-SIZE: 17px; COLOR: #0a00cc; FONT-FAMILY: "細明體","Times New Roman"
+}
+DIV {
+	FONT-WEIGHT: normal; FONT-SIZE: 17px; COLOR: #0a00cc; FONT-FAMILY: "細明體","Times New Roman"
+}
+OL {
+	FONT-WEIGHT: normal; FONT-SIZE: 17px; COLOR: #0a00cc; FONT-FAMILY: "細明體","Times New Roman"
+}
+UL {
+	FONT-WEIGHT: normal; FONT-SIZE: 17px; COLOR: #0a00cc; FONT-FAMILY: "細明體","Times New Roman"
+}
+SUP {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; COLOR: #0a00cc; FONT-FAMILY: "細明體","Times New Roman"
+}
+SUB {
+	FONT-WEIGHT: normal; FONT-SIZE: 15px; COLOR: #0a00cc; FONT-FAMILY: "細明體","Times New Roman"
+}
+.HEAD {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333399
+}
+.WIDE {
+	LINE-HEIGHT: 120%
+}
+.WIDER {
+	LINE-HEIGHT: 150%
+}
+.COL {
+	FONT-WEIGHT: normal; COLOR: #ff00ff
+}
+.DES {
+	FONT-WEIGHT: normal; LINE-HEIGHT: 200%; FONT-FAMILY: "新細明體","細明體","serif"
+}
+.BOTLINK {
+	FONT-WEIGHT: normal; LINE-HEIGHT: 200%; FONT-FAMILY: "新細明體","細明體","serif"
+}
+.DES {
+	FONT-SIZE: 16px; COLOR: #aa00cc
+}
+.BOTLINK {
+	FONT-SIZE: 15px; COLOR: #9966cc
+}
+.COLBOXED {
+	BACKGROUND: #ffffcc; COLOR: #990066
+}
+.NOLINE {
+	COLOR: #00dd0a; TEXT-DECORATION: none
+}
+.OVERLINE A:hover {
+	TEXT-DECORATION: overline
+}
+A:link {
+	COLOR: #ffab00
+}
+A:visited {
+	COLOR: #ff0000
+}
+A:active {
+	COLOR: #00cc66
+}
